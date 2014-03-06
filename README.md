@@ -1,4 +1,4 @@
-squid_log_highlighter
+Squid Log Highlighter
 =====================
 
 This is a script that highlights the squid log files
